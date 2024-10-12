@@ -1,4 +1,3 @@
-getgenv().version = "Beta 2.0"
 
 local games = {
   papers = 13209672039
