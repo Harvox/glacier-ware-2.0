@@ -14,4 +14,4 @@ end
 task.delay(1, function()
 loadstring(game:HttpGet("https://pastebin.com/raw/a2CV7cAg"))() 
 warn("Succesfully loaded all Globals!") -- Globals loader
-end
+end)
