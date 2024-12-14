@@ -6,6 +6,6 @@ elseif game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name =
 shared.detected = "Virus Border Roleplay
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Harvox/glacier-ware-2.0/refs/heads/main/Virusborder.lua"))()
 else
-shared.detected = game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name
+shared.detected = "Universal Clanning UI"
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Harvox/glacier-ware-2.0/refs/heads/main/Universal"))()
 end  
