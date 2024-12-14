@@ -12,5 +12,5 @@ end
 
 -- Don't touch or it'll break the script
 task.delay(1, function()
-loadstring(game:HttpGet("https://pastebin.com/raw/a2CV7cAg"))() -- HWID authenticator
+loadstring(game:HttpGet("https://pastebin.com/raw/a2CV7cAg"))() -- Globals loader
 end
