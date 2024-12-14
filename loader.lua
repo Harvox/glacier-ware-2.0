@@ -4,5 +4,5 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Harvox/glacier-ware-2
 elseif game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name == "🧬 Virus Border Roleplay" then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Harvox/glacier-ware-2.0/refs/heads/main/Virusborder.lua"))()
 else
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Harvox/glacier-ware-2.0/refs/heads/main/Universal"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Harvox/glacier-ware-2.0/refs/heads/main/Universal.lua"))()
 end  
